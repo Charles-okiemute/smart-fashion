@@ -1,0 +1,15 @@
+{
+  "name": "Smart Fashion",
+  "short_name": "Smart Fashion",
+  "description": "Digital fashion record system for small-scale tailors. Every measure. Every order. Linked.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b2a6f",
+  "theme_color": "#0b2a6f",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
